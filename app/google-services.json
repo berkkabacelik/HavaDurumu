@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1020530719900",
+    "project_id": "signup-login-firebase-93052",
+    "storage_bucket": "signup-login-firebase-93052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020530719900:android:d15bd021bb41859c81c159",
+        "android_client_info": {
+          "package_name": "com.example.havadurumu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020530719900-14taf4sh544eglc76cqplmusoosq36e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBT5LTxR6FtiUkUJKOOzVb36RZdL7IGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020530719900-14taf4sh544eglc76cqplmusoosq36e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020530719900:android:b6b06fdb5afb384681c159",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020530719900-qi314qqdkkn8ccfacfa1ki4dqnb5hauc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "794c1e14bb97efa12c09a369c591fbeab1cf42d5"
+          }
+        },
+        {
+          "client_id": "1020530719900-14taf4sh544eglc76cqplmusoosq36e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXBT5LTxR6FtiUkUJKOOzVb36RZdL7IGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020530719900-14taf4sh544eglc76cqplmusoosq36e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
